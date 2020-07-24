@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherRecyclerView</string>
+    <string name="btnStartString">ПОЕХАЛИ</string>
+    <string name="conditionString">Ясно</string>
+    <string name="tempString">22°C</string>
+    <string name="cityString">Москва</string>
+    <string name="startText">Здравствуй,\nдорогой друг!\nДобро пожаловать в недопрогноз погоды</string>
+    <string name="temperature">Температура:</string>
+    <string name="weather">Погода:</string>
+</resources>
